@@ -4,7 +4,7 @@ import Footer from "./components/Footer";
 import Home from "./pages/Home";
 import Journeys from "./pages/Journeys";
 import JourneyDetail from "./pages/JourneyDetail";
-import Products from "./pages/products";
+import Products from "./pages/Products";
 import ProductDetail from "./pages/ProductDetail";
 import Contact  from "./pages/Contact";
 import About from "./pages/About";
