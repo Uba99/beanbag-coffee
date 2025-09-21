@@ -1,5 +1,5 @@
 import React from "react";
-import journeys from "../data/journeys";
+import Journeys from "../data/journeys";
 import JourneyCard from "../components/JourneyCard";
 
 const Journeys = () => {
