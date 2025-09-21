@@ -1,5 +1,5 @@
 import React from "react";
-import ProductsList from "../data/Products";
+import { ProductsList } from "../data/products";
 import ProductCard from "../components/ProductCard";
 
 const Products = () => {
