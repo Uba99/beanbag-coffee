@@ -1,7 +1,7 @@
 // src/pages/ProductDetail.jsx
 import React, { useState } from "react";
 import { useParams, Link } from "react-router-dom";
-import products from "../data/products";
+import products from "../data/Products";
 
 const ProductDetail = () => {
   const { slug } = useParams();

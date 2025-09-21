@@ -1,7 +1,7 @@
 import React from "react";
-import ProductCard from "../components/productCard";
-import Products from "../data/products";
-import journeys from "../data/journeys";
+import ProductCard from "../components/ProductCard";
+import Products from "../data/Products";
+import journeys from "../data/Journeys";
 import JourneyCard from "../components/JourneyCard";
 import { Link } from "react-router-dom";
 

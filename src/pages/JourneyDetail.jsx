@@ -1,6 +1,6 @@
 import React from "react";
 import { useParams, Link } from "react-router-dom";
-import journeys from "../data/journeys";
+import journeys from "../data/Journeys";
 
 const JourneyDetail = () => {
   const { slug } = useParams();
